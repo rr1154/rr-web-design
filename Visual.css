@@ -1,0 +1,41 @@
+/*navigation bar*/
+.navbar {
+    padding-right: 2.5rem;
+    background-color: green;
+}
+
+.navbar .navbar-brand {
+    background-color: black;
+}
+
+.navbar .navbar-header {
+	background-color: blue;
+}
+
+
+
+
+.navbar-toggle {
+	background-color: red;
+	color: pink;
+}
+
+footer {
+    margin-top: 7rem;
+    background-color: #4D79E1;
+    padding-bottom: 2rem;
+}
+
+footer a {
+    color: black;
+}
+
+
+
+
+
+
+
+section {
+    margin-top: 300px;
+}
